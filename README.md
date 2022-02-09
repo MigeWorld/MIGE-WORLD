@@ -1,9 +1,9 @@
-# MIGE-WORLD
+# MIGE-WORLD INFO
 MIGE world is a group that develops digital currency that is used to trade in-game items issued by MIGE, In addition, they are also used to store NFT assets.
 
-Name : MIGE Symbol </br>
+Name : <b>MIGE</b> Symbol </br>
 TC Max. Reserve : 1,000,000,000 </br>
-Total Token: 1,000,000,000 </br>
+Total Token: <b>1,000,000,000</b> </br>
 Circulating Supply : BEP20 Creation Date : 07.02.2022 </br>
 
 Logo Png : https://migeworld.com/logo.png </br>
@@ -18,20 +18,20 @@ oogle Play : Comingson! </br>
 
 # Social Media
 
-Telegram Global: t.me/ttcoinworld 
-Telegram Channel : t.me/ttcoinofficial 
-Telegram English Grup : t.me/ttcoinenglish 
-Telegram Turkey Grup : t.me/ttcointurkey 
-Telegram India Grup : t.me/ttcoinindia 
-Telegram Korea Grup : t.me/ttcoinkorea 
-Telegram Pakistan Grup : t.me/ttcoinpakistan 
-Telegram Indonesia Grup : t.me/ttcoinindonesia 
-Telegram Vietnamese Grup : t.me/ttcoinvietnamese
-
-Facebook: https://facebook.com/ttcoinofficial 
-Twitter: https://twitter.com/ttcoinofficial 
-Instagram: https://instagram.com/ttcoinofficial 
-Linkedin: http://linkedin.com/company/ttcoinofficial 
-YouTube: https://www.youtube.com/channel/UCw4ctJY-VD12hwHuHl1D9kw 
-Google Play : https://play.google.com/store/apps/details?id=com.ttcoin.tc 
-Github: https://github.com/TTCOIN-TC/
+Telegram Global: https://t.me/migeworld </br>
+Telegram Channel : https://t.me/migeofficial </br>
+Telegram English Grup : https://t.me/migecoinenglish </br>
+Telegram Turkey Grup : https://t.me/migecointurkey </br>
+Telegram India Grup : https://t.me/migecoinindia </br>
+Telegram Korea Grup : https://t.me/migecoinkorea </br>
+Telegram Pakistan Grup : https://t.me/migecoinpakistan </br>
+Telegram Indonesia Grup : https://t.me/migecoinindonesia </br>
+Telegram Vietnamese Grup : https://t.me/migecoinvietnamese</br>
+</hr>
+Facebook: https://www.facebook.com/migeworld </br>
+Twitter: https://twitter.com/migecoinofficial </br>
+Instagram: https://instagram.com/migecoinofficial </br>
+Linkedin: http://linkedin.com/company/migecoinofficial </br>
+YouTube: https://www.youtube.com/channel/UCw4ctJY-VD12hwHuHl1D9kw </br>
+Google Play : Comingson! </br>
+Github: https://github.com/MigeWorld/MIGE-WORLD</br>
