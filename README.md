@@ -13,8 +13,8 @@ BEP20 Token Address: https://bscscan.com/token/0x6da7d2abaefe207457ced443e4b685d
 Web site : https://migeworld.com </br>
 Team: https://migeworld.com/team </br>
 About: https://migeworld.com/about-us </br>
-Whitepaper: https://migeworld.com/wp/whitepaper.pdf G</br>
-oogle Play : Comingson! </br>
+Whitepaper: https://migeworld.com/wp/whitepaper.pdf</br>
+Google Play : Comingson! </br>
 
 # Social Media
 
