@@ -3,18 +3,18 @@ MIGE world is a group that develops digital currency that is used to trade in-ga
 
 Name : MIGE Symbol </br>
 TC Max. Reserve : 1,000,000,000 </br>
-Total Token: 1,000,000,000
-Circulating Supply : BEP20 Creation Date : 07.02.2022
+Total Token: 1,000,000,000 </br>
+Circulating Supply : BEP20 Creation Date : 07.02.2022 </br>
 
-Logo Png : https://migeworld.com/logo.png
+Logo Png : https://migeworld.com/logo.png </br>
 
-BEP20 Token Address: https://bscscan.com/token/0x6da7d2abaefe207457ced443e4b685d750c0cb49
+BEP20 Token Address: https://bscscan.com/token/0x6da7d2abaefe207457ced443e4b685d750c0cb49 </br>
 
-Web site : https://migeworld.com 
-Team: https://migeworld.com/team 
-About: https://migeworld.com/about-us 
-Whitepaper: https://migeworld.com/wp/whitepaper.pdf G
-oogle Play : Comingson!
+Web site : https://migeworld.com </br>
+Team: https://migeworld.com/team </br>
+About: https://migeworld.com/about-us </br>
+Whitepaper: https://migeworld.com/wp/whitepaper.pdf G</br>
+oogle Play : Comingson! </br>
 
 # Social Media
 
