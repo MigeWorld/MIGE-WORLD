@@ -6,7 +6,7 @@ TC Max. Reserve : 1,000,000,000 </br>
 Total Token: <b>1,000,000,000</b> </br>
 Circulating Supply : BEP20 Creation Date : 07.02.2022 </br>
 
-Logo Png : https://migeworld.com/logo.png </br>
+Logo Png : https://github.com/MigeWorld/MIGE-WORLD/blob/Mige/logo/mige-logo1.png </br>
 
 BEP20 Token Address: https://bscscan.com/token/0x6da7d2abaefe207457ced443e4b685d750c0cb49 </br>
 
