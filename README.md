@@ -2,7 +2,7 @@
 MIGE world is a group that develops digital currency that is used to trade in-game items issued by MIGE, In addition, they are also used to store NFT assets.
 
 Name : MIGE Symbol </br>
-TC Max. Reserve : 1,000,000,000 
+TC Max. Reserve : 1,000,000,000 </br>
 Total Token: 1,000,000,000
 Circulating Supply : BEP20 Creation Date : 07.02.2022
 
